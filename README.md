@@ -57,7 +57,9 @@ Building scalable systems, high-performance applications, and business-grade sof
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🏢 Holy Quran Learning System (Hefz El Moyaser)
 A complete Quran memorization and learning platform  
@@ -66,21 +68,59 @@ A complete Quran memorization and learning platform
 ✔ Interactive learning modules  
 ✔ Performance optimized JSON architecture  
 
+🔗 [View Repo](https://hefzmoyaser.net/)
+
+  </td>
+
+  <td width="45%">
+    <img  src="https://github.com/user-attachments/assets/529cd129-4803-457a-9484-5d907b147576" width="100%" />
+  </td>
+  </tr>
+</table>
+
 ---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🌟 Asma' Allah Al-Husna Academy
 Educational platform for learning the 99 Names of Allah  
 ✔ Structured learning paths  
 ✔ Interactive content system  
-✔ Responsive UI/UX design  
+✔ Responsive UI/UX design   
+
+🔗 [View Repo](https://moaddi.org/)
+
+  </td>
+
+  <td width="45%">
+    <img  src="https://github.com/user-attachments/assets/1736532d-8e6e-4350-b948-8f55ec25449a" width="100%" />
+  </td>
+  </tr>
+</table>
 
 ---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🏛️ Kafr El-Sheikh Education Directorate Portal
 Official governmental web platform  
 ✔ Administrative management system  
 ✔ Result & services integration  
 ✔ Secure backend architecture  
+
+🔗 [View Repo](https://kfsedu.gov.eg/)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/e3dee282-42c1-4de5-911d-74f1506d102e" width="100%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
