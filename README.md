@@ -1,30 +1,30 @@
 <!-- HERO SECTION -->
-<h1 align="center"> Alaa Amer</h1>
+<h1 align="center">🚀 Alaa Amer</h1>
 
-<h3 align="center">Senior Full Stack Web Developer | Laravel • Next.js • PHP Architect</h3>
+<h3 align="center">Senior Full Stack Web Developer | Laravel • Next.js • System Architect</h3>
 
 <p align="center">
-Building scalable systems, high-performance web apps, and business solutions.
+Building scalable systems, high-performance applications, and business-grade software solutions.
 </p>
 
 ---
 
-<!-- ANIMATION -->
+<!-- ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF6B00&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+%7C+Next.js+Specialist;System+Architect+%7C+Backend+Engineer;Performance+%7C+Scalability+%7C+Clean+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF6B00&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Laravel+%7C+Next.js+Specialist;System+Architect;ERP+%7C+CRM+%7C+SaaS+Builder;Performance+%7C+Scalability+%7C+Clean+Architecture" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-> I don’t just build websites… I build systems that run businesses.
+> I don’t just write code… I design systems that power real businesses.
 
 - 🔥 10+ years experience in web development
 - 🏢 Built ERP, CRM, SaaS & Real Estate systems
-- ⚙️ Backend-focused (Laravel / PHP / APIs)
-- 🎨 Frontend expert (Next.js / UI systems)
-- 🚀 Focus on architecture, performance, scalability
+- ⚙️ Strong backend architecture (Laravel / PHP / APIs)
+- 🎨 Modern frontend systems (Next.js / UI Engineering)
+- 🚀 Focus on performance, scalability & clean architecture
 
 ---
 
@@ -32,12 +32,12 @@ Building scalable systems, high-performance web apps, and business solutions.
 
 <p align="center">
 
-🧱 System Architecture •  
-⚙️ Backend Development •  
-🌐 Full Stack Applications •  
+🏗️ System Architecture •  
+⚙️ Backend Engineering •  
+🌐 Full Stack Development •  
 🚀 SaaS Platforms •  
 📊 Admin Dashboards •  
-🔐 Secure API Systems
+🔐 Secure API Systems  
 
 </p>
 
@@ -54,61 +54,66 @@ Building scalable systems, high-performance web apps, and business solutions.
 ## 🚀 Featured Projects
 
 ### 🏢 Real Estate Management System
-Full CRM system for property sales & rentals  
-✔ Clients & Deals Management  
-✔ Admin Dashboard  
-✔ Role-Based Access Control  
+Enterprise CRM for property management  
+✔ Sales & Rentals  
+✔ Clients & Deals Tracking  
+✔ Role-based Access System  
 
 ---
 
 ### ⚙️ Laravel Business Starter Kit
 Production-ready system for companies  
-✔ Dynamic Settings  
-✔ Permissions System  
+✔ Dynamic Settings System  
+✔ Permissions & Roles  
 ✔ SEO-ready architecture  
 
 ---
 
 ### 📊 SaaS Dashboard (Next.js + Laravel API)
-Modern scalable dashboard  
+Modern scalable dashboard system  
 ✔ Authentication system  
-✔ API integration  
-✔ Analytics UI  
+✔ REST API integration  
+✔ Analytics & UI components  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaamer99&layout=compact&theme=radical" height="180" width="90%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=alaaamer99&show_icons=true&theme=radical" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaamer99&layout=compact&theme=radical" height="180"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaaamer99&theme=react-dark" />
 </p>
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaamer99&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaamer99&theme=radical"/>
 </p>
+
 ---
 
-## 🌍 Let's Connect
+## 🌍 Let’s Connect
 
 <p align="center">
 
 📧 Email: **alaaamer99999@gmail.com**  
 💻 GitHub: https://github.com/alaaamer99  
 🌐 Website: https://alaaamer.net  
-💼 LinkedIn: https://www.linkedin.com/in/alaa-amer-a10633242/
+💼 LinkedIn: https://www.linkedin.com/in/alaa-amer-a10633242/  
 
 </p>
 
 ---
 
 <p align="center">
-🔥 “Engineering clean systems that scale businesses, not just code.”
+🔥 “Engineering systems that scale businesses, not just writing code.”
 </p>
