@@ -1,5 +1,5 @@
 <!-- HERO SECTION -->
-<h1 align="center">🚀 Alaa Amer</h1>
+<h1 align="center"> Alaa Amer</h1>
 
 <h3 align="center">Senior Full Stack Web Developer | Laravel • Next.js • System Architect</h3>
 
@@ -49,9 +49,85 @@ Building scalable systems, high-performance applications, and business-grade sof
   <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaamer99&theme=radical" height="180"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
+
+## 🚀 Featured Projects
+
+### 🏢 Holy Quran Learning System (Hefz El Moyaser)
+A complete Quran memorization and learning platform  
+✔ Tafsir system  
+✔ Smart search engine  
+✔ Interactive learning modules  
+✔ Performance optimized JSON architecture  
+
+---
+
+### 🌟 Asma' Allah Al-Husna Academy
+Educational platform for learning the 99 Names of Allah  
+✔ Structured learning paths  
+✔ Interactive content system  
+✔ Responsive UI/UX design  
+
+---
+
+### 🏛️ Kafr El-Sheikh Education Directorate Portal
+Official governmental web platform  
+✔ Administrative management system  
+✔ Result & services integration  
+✔ Secure backend architecture  
+
+---
+
+### 🏥 Clinic & Medical Center SaaS System
+Cloud-based healthcare management system  
+✔ Patients management  
+✔ Appointments system  
+✔ Billing & invoices  
+✔ Multi-role access system  
+
+---
+
+### 🏢 Warehouse & Sales Management SaaS
+Enterprise inventory & sales platform  
+✔ Inventory control system  
+✔ Sales & purchase management  
+✔ Advanced reporting system  
+✔ Print-ready invoices  
+
+---
+
+### ⚖️ Law Firm Management System
+Legal office management platform  
+✔ Cases tracking system  
+✔ Clients management  
+✔ Document handling system  
+✔ Secure data structure  
+
+---
+
+### 📖 AI-Powered Quran Research System
+Smart Quran research and analysis engine  
+✔ AI-based search system  
+✔ Tafsir aggregation  
+✔ Similar verses detection  
+✔ High-performance JSON indexing  
+
+---
+
+### 🛒 Self-Service Vending Machines Platform
+E-commerce + vending machine management system  
+✔ Product management  
+✔ Machine monitoring system  
+✔ Sales tracking  
+✔ Remote control dashboard   
+
+---
 
 ### 🏢 Real Estate Management System
 Enterprise CRM for property management  
@@ -81,8 +157,6 @@ Modern scalable dashboard system
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alaaamer99&show_icons=true&theme=radical" height="180"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaamer99&layout=compact&theme=radical" height="180"/>
 
 </p>
@@ -92,11 +166,11 @@ Modern scalable dashboard system
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaaamer99&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaaamer99&theme=react-dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaamer99&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaaamer99&theme=radical" height="180"/>
 </p>
 
 ---
