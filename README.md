@@ -1,5 +1,5 @@
 <!-- HERO SECTION -->
-<h1 align="center">🚀 Alaa Amer</h1>
+<h1 align="center"> Alaa Amer</h1>
 
 <h3 align="center">Senior Full Stack Web Developer | Laravel • Next.js • PHP Architect</h3>
 
@@ -79,18 +79,18 @@ Modern scalable dashboard
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaaamer99&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaamer99&layout=compact&theme=radical" height="180"/>
-</p>
+</p> -->
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaaamer99&theme=react-dark" />
-</p>
+</p> -->
 
 ---
 
