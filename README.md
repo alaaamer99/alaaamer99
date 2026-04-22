@@ -11,7 +11,7 @@ Building scalable systems, high-performance web apps, and business solutions.
 
 <!-- ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+%7C+Next.js+Specialist;System+Architect+%7C+Backend+Engineer;Performance+%7C+Scalability+%7C+Clean+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF6B00&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+%7C+Next.js+Specialist;System+Architect+%7C+Backend+Engineer;Performance+%7C+Scalability+%7C+Clean+Code" />
 </p>
 
 ---
