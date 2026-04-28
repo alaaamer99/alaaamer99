@@ -1,5 +1,5 @@
 <!-- HERO SECTION -->
-<h1 align="center"> Alaa Amer</h1>
+<h1 align="center"> Alaa Amer Web Developer - Egypt</h1>
 
 <h3 align="center">Senior Full Stack Web Developer | Laravel • Next.js • System Architect</h3>
 
@@ -68,7 +68,7 @@ A complete Quran memorization and learning platform
 ✔ Interactive learning modules  
 ✔ Performance optimized JSON architecture  
 
-🔗 [View Repo](https://hefzmoyaser.net/)
+🔗 [View Hefz Moyaser Holy Quran](https://alaaamer.net/ar/projects/hefzmoyaser-hafs)
 
   </td>
 
@@ -90,7 +90,7 @@ Educational platform for learning the 99 Names of Allah
 ✔ Interactive content system  
 ✔ Responsive UI/UX design   
 
-🔗 [View Repo](https://moaddi.org/)
+🔗 [View Academy of Names of Allah](https://alaaamer.net/ar/projects/academy-names-of-allah)
 
   </td>
 
@@ -112,7 +112,7 @@ Official governmental web platform
 ✔ Result & services integration  
 ✔ Secure backend architecture  
 
-🔗 [View Repo](https://kfsedu.gov.eg/)
+🔗 [View Kafr El-Sheikh Education Directorate Portal](https://alaaamer.net/ar/projects/kfs-education-portal)
 
   </td>
 
@@ -122,7 +122,12 @@ Official governmental web platform
   </tr>
 </table>
 
+
 ---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🏥 Clinic & Medical Center SaaS System
 Cloud-based healthcare management system  
@@ -131,7 +136,23 @@ Cloud-based healthcare management system
 ✔ Billing & invoices  
 ✔ Multi-role access system  
 
+🔗 [View Clinic & Medical Center SaaS System](https://alaaamer.net/ar/salable-projects/medica-plus)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/01c03def-818c-4657-9c20-898aa2ea2488" width="100%" />
+
+  </td>
+  </tr>
+</table>
 ---
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🏢 Warehouse & Sales Management SaaS
 Enterprise inventory & sales platform  
@@ -140,7 +161,22 @@ Enterprise inventory & sales platform
 ✔ Advanced reporting system  
 ✔ Print-ready invoices  
 
+🔗 [View Warehouse & Sales Management SaaS](https://alaaamer.net/ar/salable-projects/alsahl-real-estate-management)
+
+  </td>
+
+  <td width="45%">
+    <img  src="https://github.com/user-attachments/assets/1355f133-9f2e-4b2c-b344-efe461499c9e"  width="100%"  />
+  </td>
+  </tr>
+</table>
 ---
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### ⚖️ Law Firm Management System
 Legal office management platform  
@@ -149,7 +185,24 @@ Legal office management platform
 ✔ Document handling system  
 ✔ Secure data structure  
 
+🔗 [View Law Firm Management System](https://alaaamer.net/ar/salable-projects/ks-legal-group-management)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/aba2cbe1-395e-4460-a0a8-d790ba03b2fa" width="100%" />
+  </td>
+  </tr>
+</table>
+
 ---
+
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 📖 AI-Powered Quran Research System
 Smart Quran research and analysis engine  
@@ -158,7 +211,24 @@ Smart Quran research and analysis engine
 ✔ Similar verses detection  
 ✔ High-performance JSON indexing  
 
+🔗 [View AI-Powered Quran Research System](https://alaaamer.net/ar/projects/hefzmoyaser-main)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/00fe2e2d-6236-404a-894d-45524dec65b1" width="100%" />
+  </td>
+  </tr>
+</table>
+
 ---
+
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🛒 Self-Service Vending Machines Platform
 E-commerce + vending machine management system  
@@ -167,21 +237,68 @@ E-commerce + vending machine management system
 ✔ Sales tracking  
 ✔ Remote control dashboard   
 
+🔗 [View Self-Service Vending Machines Platform](https://alaaamer.net/ar/projects/marketing-line-company)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/d06a8587-7b3a-4874-a10b-cfa400f9da53"  width="100%" />
+  </td>
+  </tr>
+</table>
+
 ---
+
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
 
 ### 🏢 Real Estate Management System
 Enterprise CRM for property management  
 ✔ Sales & Rentals  
 ✔ Clients & Deals Tracking  
-✔ Role-based Access System  
+✔ Role-based Access System    
+
+🔗 [View Real Estate Management System](https://alaaamer.net/ar/projects/al-sahl-realestate)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/1baa956e-8495-4c7f-9237-0e841852b9c7"  width="100%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Laravel Business Starter Kit
-Production-ready system for companies  
+
+---
+
+<table>
+  <tr>
+    <td width="55%">
+
+### ⚙️ Laravel Halwany family Starter Kit
+Production-ready system for Halwany family 
 ✔ Dynamic Settings System  
 ✔ Permissions & Roles  
-✔ SEO-ready architecture  
+✔ SEO-ready architecture   
+
+🔗 [View Laravel Halwany family Starter Kit](https://alaaamer.net/ar/projects/al-halawani-family-web)
+
+  </td>
+
+  <td width="45%">
+    <img src="https://github.com/user-attachments/assets/47640c48-1c34-4df4-af5f-01802e1b0e87"  width="100%"  />
+  </td>
+  </tr>
+</table>
+
+---
+
 
 ---
 
